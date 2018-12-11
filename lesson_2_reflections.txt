@@ -15,3 +15,7 @@ What are some situations when branches would be helpful in keeping your history 
 
     I can use branches to check out stuff I don't want to check out on the master branch. I can keep the master branch official
     and keep it's history relevant to it's current purpose.
+
+How do the diagrams help you visualize the branch structure?
+
+    They help by showing me if what I'm committing is in a detached HEAD state.
