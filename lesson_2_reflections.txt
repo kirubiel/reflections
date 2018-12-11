@@ -24,3 +24,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
     It updates both branches into one. It is represented like that because it is now shown in the log of the merged-to branch
     and visible.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+    Pros: I don't have to review each merge
+    Cons: I'll have conflicts to resolve on my own when it can't merge.
