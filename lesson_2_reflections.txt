@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need it?
 
     It makes a folder accessible by git and we need it to show previous versions of it using git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    I think that when a logical change to documents has been done, it can be stored in that single commit with other files that have been 
+    changed as well. It doesn't commit only one file.
